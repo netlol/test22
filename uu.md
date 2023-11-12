@@ -7,7 +7,6 @@ graph TD;
 ```
 ```mermaid
 graph TD;
-  A[開始] --> B(操作1);
   A[開始] -->|新文件| B(撰寫草稿);
   A -->|編修已存在之文件| C(checkout要編修之文件);
   B --> D(結束);
