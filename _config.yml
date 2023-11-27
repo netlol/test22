@@ -1,12 +1,12 @@
 title: Hello # name of the site
 description: > # description of the site (multiple lines allowed)
-url: 'https://netlol.github.io/test22' # root address of the site
-baseurl: "/test22" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+#url: 'https://netlol.github.io/test22' # root address of the site
+#baseurl: "/test22" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 
 
 
 
-remote_theme: riggraz/no-style-please
+#remote_theme: riggraz/no-style-please
 
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
