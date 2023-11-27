@@ -1,6 +1,6 @@
 title: Hello # name of the site
 description: > # description of the site (multiple lines allowed)
-
+url: https://netlol.github.io/test22 
 remote_theme: riggraz/no-style-please
 
 plugins:
