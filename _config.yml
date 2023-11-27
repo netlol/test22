@@ -1,5 +1,6 @@
 title: Hello # name of the site
 description: > # description of the site (multiple lines allowed)
+
 remote_theme: riggraz/no-style-please
 
 plugins:
